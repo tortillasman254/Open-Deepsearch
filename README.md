@@ -56,8 +56,9 @@ This project implements a multi-agent system using CrewAI to research topics onl
         *(The `--with-deps` flag helps install necessary browser dependencies on some systems).*
 
 4.  **Create `.env` File:**
-    *   Create a file named `.env` in the project directory.
-    *   Copy the contents from the example `.env` file above.
+    *   ```bash
+        copy .env.example .env
+        ```
     *   Replace placeholder values with your actual API keys. **Never commit this file to version control.**
 
 5.  **Create and Customize `config.yaml`:**
