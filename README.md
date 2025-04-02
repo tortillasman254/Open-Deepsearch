@@ -104,4 +104,3 @@ This project implements a multi-agent system using CrewAI to research topics onl
     *   Ensure Python version is >= 3.11.
 *   **API Errors (401 Unauthorized, 403 Forbidden, etc.):** Double-check your API keys in `.env`. Verify account status on OpenRouter/Jina AI.
 *   **Timeout Errors:** Network issues or the called API (Jina/OpenRouter/Target Website) is slow. Check internet connection. You might increase timeout values in the code if needed, but address the root cause if possible.
-# Open-Deepsearch
