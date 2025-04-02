@@ -18,7 +18,7 @@ This project implements a multi-agent system using CrewAI to research topics onl
 *   **pip:** Python package installer.
 *   **Git:** (Optional) For cloning the repository.
 *   **API Keys:**
-    *   **OpenRouter API Key:** Required for the LLM. Get one at [https://openrouter.ai/keys](https://openrouter.ai/keys). [1]
+    *   **OpenRouter API Key:** Required for the LLM. Get one at [https://openrouter.ai/keys](https://openrouter.ai/keys).
     *   **Jina API Key:** Optional, but recommended for higher DeepSearch rate limits. Get one from Jina AI.
     *   **OpenAI API Key:** Optional, only if you modify the code to test `browser-use` with OpenAI directly.
 
